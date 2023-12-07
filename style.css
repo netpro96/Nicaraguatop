@@ -1,0 +1,98 @@
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    background-color: #86A789;
+        box-sizing: border-box;
+    margin: 0;
+
+}
+.container {
+    color: white;
+    border: 5px solid #B2C8BA;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: #B2C8BA;
+  }
+.IsletasdeGranada{
+
+width: 350px;
+height: 150px;
+
+
+}
+.CornIsland{
+    width: 350px;
+    height: 150px;
+}
+
+.VolcanMasaya{
+    width: 350px;
+    height: 150px;
+}
+
+.CerroNegro{
+    width: 350px;
+    height: 150px;
+}
+
+.VolcanMombacho{
+    width: 350px;
+    height: 150px;
+}
+
+.IsladeOmetepe{
+    width: 350px;
+    height: 150px;
+}
+
+.SanJuandelSur{
+    width: 350px;
+    height: 150px;
+}
+
+.Granada{
+    width: 350px;
+height: 150px;
+}
+
+.Leon{
+    width: 350px;
+height: 150px;
+}
+
+.LagunadeApoyo{
+    width: 350px;
+height: 150px;
+order: 1;
+
+justify-content: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #EBF3E8;
+}
+
+.Isletas{
+    text-align: center;
+}
+
+hr{
+   width: 85%;
+   height: 2px;
+   background-color: black;
+   border-radius: 10%;
+}
+.bottom-left {
+    float:left;
+    position:relative;
+    bottom: 35px;
+    font-size: 22pt;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+     1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}

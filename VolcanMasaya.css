@@ -1,0 +1,91 @@
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+}
+
+hr{
+    width: 23%;
+    height: 2px;
+    background-color: black;
+    border-radius: 10%;
+ 
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-around;
+    color: white;
+    border: 5px solid #C4D7B2;
+    background-color: #C4D7B2;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 19px;
+    padding-right: 2.5%;
+    color: white;
+    border: 5px solid #C4D7B2;
+    background-color: #C4D7B2;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 19px;
+    padding-right: 2.5%;
+    color: white;
+    border: 5px solid #C4D7B2;
+    background-color: #C4D7B2;
+}
+.Volcan{
+    width: 400px;
+    height: 300px;
+    border-radius: 5%;
+    border: solid black;
+}
+.Volcan1{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 300px;
+    height: 250px;
+    border: solid black;
+    border-radius: 5%;
+}
+.Volcan2{
+    width: 300px;
+    height: 250px;
+    margin-top: 4%;
+    margin-left: 1%; 
+    border: solid black;
+    border-radius: 5%; 
+}
+.Parrafo1{
+    font-size: 1.rem;
+    color: black;
+    padding: 20px;
+    padding-top: 40px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
+
+.Parrafo2{
+    font-size: 1.rem;
+    color: black;
+    padding: 20px;
+    padding-top: 40px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify; 
+}
+
+footer{
+    text-align: center;
+    background-color: #EBF3E8;
+}

@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+}
+.Isletas1{
+    width: 300px;
+    height: 200px;
+}
+.Isletas2{
+    width: 300px;
+    height: 200px;
+    order: 1;
+}
+.container{
+    color: white;
+    border: 5px solid #C4D7B2;
+    display: flex;
+    gap: 10px;
+    background-color: #C4D7B2;
+    padding: 1%;
+}
+.IsletasdeGranada2{
+    order: 1;
+}
+.Parrafo1{
+    font-size: 1rem;
+    color: black;
+    padding: 20px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
+.Parrafo2{
+    font-size: 1rem;
+    color: black;
+    order: 0;
+    padding: 20px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
+.container2{
+    color: white;
+    border: 5px solid #C4D7B2;
+    display: flex;
+    gap: 10px;
+    background-color: #C4D7B2;
+    padding: 1%;
+
+}
+
+.container3{
+    color: white;
+    border: 5px solid #C4D7B2;
+    display: flex;
+    gap: 10px;
+    background-color: #C4D7B2;
+    justify-content: space-between;
+
+}
+
+.container3 > .Isletas{
+    width: 420px;
+    height: 300px;
+}
+
+img{
+    border-radius: 5%;
+}
+
+hr{
+    width: 32%;
+    height: 2px;
+    background-color: black;
+    border-radius: 10%;
+ 
+}
+footer{
+    text-align: center;
+    background-color: #EBF3E8;
+}

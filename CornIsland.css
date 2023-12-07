@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+}
+
+.container{
+    justify-content: space-between;
+    color: white;
+    border: 5px solid #C4D7B2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: #C4D7B2;
+    padding: 1%;
+    width: 100%;
+}
+
+.Image-Island{
+    width: 300px;
+    height: 250px;
+    border: solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      border-radius: 5%;
+      margin-top: -80%;
+
+}
+.Image-Island2{
+    width: 300px;
+    height: 250px;
+    border: solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      border-radius: 5%;
+
+}
+.Image-Island3{
+    width: 300px;
+    height: 250px;
+    border: solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      border-radius: 5%;
+      margin-top: -90%;
+
+}
+
+p{
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 1rem;
+    padding: 0px;
+    
+}
+.Image-Corn{
+    width: 300px;
+    height: 300px;
+    gap: 10px;
+    border: solid black;
+    border-radius: 5%;
+
+}
+hr{
+    width: 20%;
+    height: 2px;
+    background-color: black;
+    border-radius: 10%;
+ 
+}
+
+footer{
+    text-align: center;
+    background-color: #EBF3E8;
+
+}
